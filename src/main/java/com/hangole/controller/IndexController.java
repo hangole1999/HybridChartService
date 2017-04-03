@@ -8,6 +8,7 @@ import java.util.Locale;
 /**
  * Created by kimgiwhang_010 on 2017-04-03.
  */
+
 public class IndexController {
 
     @RequestMapping(value = "/index")
